@@ -1,0 +1,11 @@
+Log file summary report
+------------------------
+Total logs Count : 10
+Unique Ip address : 9
+Duplicate Ip address : 1
+
+Status Code Summary:
+2xx  Count : 5
+3xx  Count : 0
+4xx  Count : 1
+5xx  Count : 4

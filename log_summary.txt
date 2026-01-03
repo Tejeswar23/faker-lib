@@ -1,0 +1,3 @@
+Log file summary report
+------------------------
+Total logs Count :10
